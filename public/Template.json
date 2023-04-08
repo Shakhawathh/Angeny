@@ -1,13 +1,13 @@
 [
   {
     "id": "1",
-    "name": "Digital Agency",
+    "name": "Digital Marketing",
     "img": "https://new.axilthemes.com/demo/react/keystroke/images/preview/home-01.png?imwidth=1920"
   },
 
   {
     "id": "2",
-    "name": "Creative Agency",
+    "name": "Web Development",
     "img": "https://new.axilthemes.com/demo/react/keystroke/images/preview/home-02.png?imwidth=1920"
   },
 
@@ -19,13 +19,13 @@
 
   {
     "id": "4",
-    "name": "Startup",
+    "name": "App Development",
     "img": "https://new.axilthemes.com/demo/react/keystroke/images/preview/home-05.png?imwidth=1920"
   },
 
   {
     "id": "5",
-    "name": "Corporate Agency",
+    "name": "E commerces",
     "img": "https://new.axilthemes.com/demo/react/keystroke/images/preview/home-04.png?imwidth=1920"
   }
 ]
