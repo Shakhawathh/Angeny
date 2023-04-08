@@ -38,17 +38,17 @@ const Nav = () => {
           <ul className="flex gap-8 text-[#1F1E5E] font-bold">
             <li>
               <a className="hover:text-[#702FFF]" href="#">
-                Template
+                Client
               </a>
             </li>
             <li>
               <a className="hover:text-[#702FFF]" href="#">
-                Features
+                Our Works
               </a>
             </li>
             <li>
               <a className="hover:text-[#702FFF]" href="#">
-                Why Us
+                About
               </a>
             </li>
           </ul>
@@ -70,8 +70,7 @@ const Nav = () => {
               }`}
             ></div>
             <div className="flex items-center gap-5 font-bold text-white tracking-wide hover:text-[#702FFF] py-[13px] px-4">
-              <span>Buy Now</span>
-              <FaShoppingCart />
+              <span>Contact Us</span>
             </div>
           </button>
         </div>

@@ -9,7 +9,7 @@ const Banner = () => {
         <div className="">
           <div className="lg:max-w-2xl lg:pb-20 pb-8">
             <h1 className="lg:text-5xl text-4xl font-semibold text-[#000248] pt-20 pb-8 lg:pt-28 lg:pb-28">
-              Creative Agency, Corporate and Portfolio React Template
+              Creative Agency, Fresh Perspective Agency
             </h1>
             <div className="flex w-fit gap-5 cursor-pointer items-center text-[#000248] hover:text-[#702FFF]">
               <div className="bg-white opacity-70 p-2 rounded-full">

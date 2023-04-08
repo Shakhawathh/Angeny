@@ -12,10 +12,10 @@ const Template = () => {
       <div className="container mx-auto px-4">
         <div className="lg:flex items-center lg:pt-28 pt-16 gap-6">
           <h1 className="lg:text-5xl text-3xl pb-8 lg:pb-0 font-semibold text-[#000248] w-full">
-            Our Template Are Just Ready to Use
+            Our Agency Are Just Ready to Use
           </h1>
           <h3 className="lg:text-2xl text-xl w-full text-gray-600">
-            You will love all of the features in our template. 100% guaranteed
+            You will love all of the features in our Agency. 100% guaranteed
             satisfaction.
           </h3>
         </div>

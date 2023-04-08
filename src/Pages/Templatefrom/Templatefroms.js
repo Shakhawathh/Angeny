@@ -4,7 +4,7 @@ import { MdArrowForward } from "react-icons/md";
 import tem1 from "../../Assets/images/Templatefrom/tem1.png";
 import tem2 from "../../Assets/images/Templatefrom/tem2.png";
 import tem3 from "../../Assets/images/Templatefrom/tem3.png";
-import Templatefrom from "../Templatefrom/Templatefrom";
+import Templatefrom from "./Templatefrom";
 
 const Templatefroms = () => {
   const [isHover, setIsHover] = useState(false);
@@ -14,12 +14,12 @@ const Templatefroms = () => {
         <div className="lg:flex gap-32 mx-auto">
           <div className="w-full">
             <h2 className="font-bold text-[#1F1E5E] lg:text-5xl text-2xl mb-6">
-              Why Buy Template From Us?{" "}
+              Why Dodo Tech ?{" "}
             </h2>
           </div>
           <div className="w-full">
             <p className="lg:text-2xl text-lg text-slate-500">
-              Every template is built with such efforts that they are ready to
+              Every Sector is built with such efforts that they are ready to
               meet all of our clients’ expectations.
             </p>
           </div>
@@ -97,9 +97,8 @@ const Templatefroms = () => {
               className="relative w-36 h-14"
             >
               <div className="absolute top-1 z-20">
-                <div className="flex items-center gap-5 font-bold text-white tracking-wide hover:text-[#702FFF] py-[13px] px-4">
-                  <span>Buy Now</span>
-                  <FaShoppingCart />
+                <div className="flex items-center gap-5 font-bold text-white tracking-wide hover:text-[rgb(112,47,255)] py-[13px] px-4">
+                  <span>Contact Us </span>
                 </div>
               </div>
               <div
